@@ -1,6 +1,3 @@
 Its a text file
-edited after cloning this repository from github
-its written from remote repository
 
-
-this file has to be up to date. this was the mistake. 
+This folder is cloned from the site using command prompt. 
